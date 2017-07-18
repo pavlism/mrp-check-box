@@ -1,0 +1,17 @@
+{
+  "name": "mrp-check-box",
+  "main": "mrp-check-box.js",
+  "description": "",
+  "authors": [
+    "Mark Pavlis"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
